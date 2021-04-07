@@ -100,7 +100,7 @@ minetest.register_ore({
 	ore_type = "scatter",
 	ore = "ice_armor:ice_ore",
 	wherein = "default:stone",
-	clust_scarcity = 50*50*50,
+	clust_scarcity = 7*7*7,
 	clust_num_ores = 1,
 	clust_size = 1,
 	height_min = -400,
