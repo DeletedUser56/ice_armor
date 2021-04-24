@@ -1,4 +1,4 @@
-How to install:
+How to install (Manually):
 	
     1: Extract to /minetest/mods (or ./minetest/mods) folder
 
@@ -7,3 +7,7 @@ How to install:
     3: Launch Minetest
 
     4: Configure world and enable modifaction 'ice_armor'
+    
+    This should work, If not please alert me in Issues! Thanks!
+    
+    
