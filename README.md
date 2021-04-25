@@ -8,6 +8,6 @@ How to install (Manually):
 
     4: Configure world and enable modifaction 'ice_armor'
     
-    This should work, If not please alert me in Issues! Thanks!
+    This should work, If not please alert me in Issues(https://github.com/DeletedUser56/ice_armor/issues)! Thanks.
     
     
